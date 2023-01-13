@@ -1,0 +1,163 @@
+{
+    "women":[{
+        "id":1,
+        "title":"edna dress",
+        "image":"/images/product-images/product-image1.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":2,
+        "title":"hot short dress",
+        "image":"/images/product-images/product-image2-1.jpg",
+        "product_price":"1200",
+        "product_discount":"250" 
+
+    },
+    {
+        "id":3,
+        "title":"formal design dress",
+        "image":"/images/product-images/product-image3.jpg",
+        "product_price":"2000",
+        "product_discount":"100"
+
+    },
+    {
+        "id":4,
+        "title":"green and whitex dress",
+        "image":"/images/product-images/product-image4.jpg",
+        "product_price":"1800",
+        "product_discount":"100"
+
+    },
+    {
+        "id":5,
+        "title":"yellowXred dress",
+        "image":"/images/product-images/product-image5.jpg",
+        "product_price":"2200",
+        "product_discount":"200"
+
+    },
+    {
+        "id":6,
+        "title":"rainbow dress",
+        "image":"/images/product-images/product-image17.jpg",
+        "product_price":"3200",
+        "product_discount":"800"
+
+    }
+    ,
+    {
+        "id":7,
+        "title":"black plan dress",
+        "image":"/images/product-images/product-image18.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":8,
+        "title":"edna dress",
+        "image":"images/product-images/product-image19.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":9,
+        "title":"edna dress",
+        "image":"images/product-images/product-image20.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":10,
+        "title":"edna dress",
+        "image":"images/product-images/product-image21.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":11,
+        "title":"edna dress",
+        "image":"images/product-images/product-image22.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":12,
+        "title":"edna dress",
+        "image":"images/product-images/product-image23.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":13,
+        "title":"edna dress",
+        "image":"/images/product-images/product-image24.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":14,
+        "title":"edna dress",
+        "image":"/images/product-images/product-image25.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":15,
+        "title":"edna dress",
+        "image":"/images/product-images/product-image26.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },{
+        "id":16,
+        "title":"edna dress",
+        "image":"images/product-images/product-image27.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":17,
+        "title":"edna dress",
+        "image":"images/product-images/product-image28.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":18,
+        "title":"edna dress",
+        "image":"images/product-images/product-image29.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":19,
+        "title":"edna dress",
+        "image":"images/product-images/product-image30.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    },
+    {
+        "id":20,
+        "title":"edna dress",
+        "image":"images/product-images/product-image31.jpg",
+        "product_price":"1200",
+        "product_discount":"250"
+
+    }
+]
+}
